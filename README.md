@@ -6,7 +6,10 @@ The DocTamper dataset is only available for non-commercial use, you can request 
 Any question about this work please contact 202221012612@mail.scut.edu.cn.
 
 Open Source Scheme:
+
 1、Inference models and codes: June, 2023.
+
 2、Training codes: TBD.
+
 3、Data synthesis code: After we complete the expanded version of this work.
 
