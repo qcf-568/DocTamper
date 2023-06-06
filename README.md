@@ -1,5 +1,5 @@
 # DocTamper
-The DocTamper dataset is now avaliable at https://pan.baidu.com/s/1nEEnq1ZWIem7wnkQ1YdTNw?pwd=od9k
+The DocTamper dataset is now avaliable at [BaiduDrive](https://pan.baidu.com/s/1nEEnq1ZWIem7wnkQ1YdTNw?pwd=od9k) or Google Drive [part1](https://drive.google.com/file/d/150teGvJbtWSULljrh9Sp_NrTlEXKPsTm/view?usp=drive_link) and [part2](https://drive.google.com/file/d/1HqcPe5F9nX7cxBsWWo9IDkkAczVGRbBd/view?usp=sharing).
 
 
 The DocTamper dataset is only available for non-commercial use, you can request a password for it by sending an email to 202221012612@mail.scut.edu.cn explaining the purpose.
