@@ -2,7 +2,7 @@ The weights of the DTD for DocTamper is now avaliable at https://pan.baidu.com/s
 
 An example of dirs structure: <Br/>
 
----DocTamper
+---DocTamper <Br/>
 &emsp;| <Br/>
 &emsp;---qt_table.pk <Br/>
 &emsp;---fph.py <Br/>
@@ -11,7 +11,7 @@ An example of dirs structure: <Br/>
 &emsp;---eval_dtd.py <Br/>
 &emsp;---dtd.pth <Br/>
 &emsp;---DocTamperV1-FCD <Br/>
-&emsp;&emsp;|
+&emsp;&emsp;| <Br/>
 &emsp;&emsp; ---data.mdb <Br/>
 &emsp;&emsp; ---lock.mdb <Br/>
 &emsp;---DocTamperV1-SCD <Br/>
