@@ -2,25 +2,25 @@
 
 #### An example of dirs structure: <Br/>
 
----DocTamper <Br/>
+---DocTamper/ <Br/>
 &emsp;| <Br/>
 &emsp;---qt_table.pk <Br/>
 &emsp;---fph.py <Br/>
 &emsp;---dtd.py <Br/>
 &emsp;---swins.py <Br/>
 &emsp;---eval_dtd.py <Br/>
-&emsp;---pths <Br/>
+&emsp;---pths/ <Br/>
 &emsp;&emsp;| <Br/>
 &emsp;&emsp;---dtd.pth <Br/>
 &emsp;&emsp;---swin_imagenet.pt <Br/>
 &emsp;&emsp;---vph_imagenet.pt <Br/>
-&emsp;---DocTamperV1-FCD <Br/>
+&emsp;---DocTamperV1-FCD/ <Br/>
 &emsp;&emsp;| <Br/>
 &emsp;&emsp; ---data.mdb <Br/>
 &emsp;&emsp; ---lock.mdb <Br/>
-&emsp;---DocTamperV1-SCD <Br/>
-&emsp;---DocTamperV1-TestingSet <Br/>
-&emsp;---pks <Br/>
+&emsp;---DocTamperV1-SCD/ <Br/>
+&emsp;---DocTamperV1-TestingSet/ <Br/>
+&emsp;---pks/ <Br/>
       
 #### An example command to reproduce the results: <Br/>
 
