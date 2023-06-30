@@ -1,4 +1,4 @@
-#### The weights of the DTD for DocTamper is now avaliable at https://pan.baidu.com/s/15BrJQTTEuUzLs1X2JUUauw?pwd=fypf <Br/>
+#### The weights of the DTD for DocTamper is now avaliable at https://pan.baidu.com/s/166A9pentu3mwewY-79qHKg?pwd=vmhb  <Br/>
 
 #### An example of dirs structure: <Br/>
 
@@ -9,7 +9,11 @@
 &emsp;---dtd.py <Br/>
 &emsp;---swins.py <Br/>
 &emsp;---eval_dtd.py <Br/>
-&emsp;---dtd.pth <Br/>
+&emsp;---pths <Br/>
+&emsp;&emsp;| <Br/>
+&emsp;&emsp;---dtd.pth <Br/>
+&emsp;&emsp;---swin_imagenet.pt <Br/>
+&emsp;&emsp;---vph_imagenet.pt <Br/>
 &emsp;---DocTamperV1-FCD <Br/>
 &emsp;&emsp;| <Br/>
 &emsp;&emsp; ---data.mdb <Br/>
@@ -20,7 +24,7 @@
       
 #### An example command to reproduce the results: <Br/>
 
-CUDA_VISIBLE_DEVICES=0 python eval_dtd.py --lmdb_name DocTamperV1-FCD --pth dtd.pth --minq 75 <Br/> <Br/> <Br/>
+CUDA_VISIBLE_DEVICES=0 python eval_dtd.py --lmdb_name DocTamperV1-FCD --pths/dtd.pth --minq 75 <Br/> <Br/> <Br/>
 
 
 The weights and inference codes for T-SROIE dataset will be updated within a few days.
