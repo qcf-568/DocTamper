@@ -24,7 +24,7 @@
       
 #### An example command to reproduce the results: <Br/>
 
-<code>CUDA_VISIBLE_DEVICES=0 python eval_dtd.py --lmdb_name DocTamperV1-FCD --pths/dtd.pth --minq 75"</code> <Br/> <Br/> <Br/>
+<code>CUDA_VISIBLE_DEVICES=0 python eval_dtd.py --lmdb_name DocTamperV1-FCD --pths/dtd.pth --minq 75</code> <Br/> <Br/> <Br/>
 
 
 The weights and inference codes for T-SROIE dataset will be updated within a few days.
