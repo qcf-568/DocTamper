@@ -2,7 +2,6 @@
 
 ---DocTamper/ <Br/>
 &emsp;| <Br/>
-&emsp;---qt_table.pk <Br/>
 &emsp;---fph.py <Br/>
 &emsp;---dtd.py <Br/>
 &emsp;---swins.py <Br/>
