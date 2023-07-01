@@ -1,4 +1,4 @@
-#### The weights of the DTD for DocTamper is now avaliable at https://pan.baidu.com/s/166A9pentu3mwewY-79qHKg?pwd=vmhb  <Br/>
+#### The weights of the DTD for DocTamper and T-SROIE are now avaliable at https://pan.baidu.com/s/166A9pentu3mwewY-79qHKg?pwd=vmhb  <Br/>
 
 #### An example of dirs structure: <Br/>
 
@@ -25,6 +25,3 @@
 #### An example command to reproduce the results: <Br/>
 
 <code>CUDA_VISIBLE_DEVICES=0 python eval_dtd.py --lmdb_name DocTamperV1-FCD --pths/dtd.pth --minq 75</code> <Br/> <Br/> <Br/>
-
-
-The weights and inference codes for T-SROIE dataset will be updated within a few days.
