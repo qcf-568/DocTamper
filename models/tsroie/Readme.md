@@ -21,7 +21,7 @@
 &emsp;&emsp; ---X00016469671.jpg <Br/>
 &emsp;&emsp; ---...... <Br/>
       
-#### An example command to reproduce the results: <Br/>
+#### Example commands to reproduce the result: <Br/>
 
 <code>python json2ic15.py
 CUDA_VISIBLE_DEVICES=0 python infer_sroie.py
