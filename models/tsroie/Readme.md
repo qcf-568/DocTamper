@@ -24,10 +24,9 @@
       
 #### An example command to reproduce the results: <Br/>
 
-<code>
-python json2ic15.py
+<code>python json2ic15.py
 CUDA_VISIBLE_DEVICES=0 python infer_sroie.py
 python tsroie_deteval.py
 </code>
-
+</Br></Br></Br>
 We use the IC15 metric following the work "Detecting Tampered Scene Text in the Wild".
