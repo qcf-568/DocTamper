@@ -1,4 +1,6 @@
-#### The weights of the DTD for DocTamper and T-SROIE are now avaliable at https://pan.baidu.com/s/166A9pentu3mwewY-79qHKg?pwd=vmhb  <Br/>
+#### The weights of the DTD for DocTamper and T-SROIE are now avaliable at [Baidu Drive](https://pan.baidu.com/s/166A9pentu3mwewY-79qHKg?pwd=vmhb) or [Google Drive](https://drive.google.com/drive/folders/11Ep8PJIrlIveudQaRulDOBENHGqw762a?usp=sharing)  <Br/>
+
+#### An Example [Colab Note Book](https://colab.research.google.com/drive/1rWaSKy2Rsy5welyvj6FbzF01o2zv8ips?usp=sharing) <Br/>
 
 #### An example of dirs structure: <Br/>
 
@@ -24,4 +26,4 @@
       
 #### An example command to reproduce the results: <Br/>
 
-<code>CUDA_VISIBLE_DEVICES=0 python eval_dtd.py --lmdb_name DocTamperV1-FCD --pths/dtd.pth --minq 75</code> <Br/> <Br/> <Br/>
+<code>!CUDA_VISIBLE_DEVICES=0 python eval_dtd.py --lmdb_name DocTamperV1-FCD --pth pths/dtd_doctamper.pth --minq 75</code> <Br/> <Br/> <Br/>
