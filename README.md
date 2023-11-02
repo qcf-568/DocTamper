@@ -11,7 +11,7 @@ I delay the release of training codes as forced by my supervisor and the coopera
 Open Source Scheme: <br>
 1、Inference models and codes: June, 2023. <br>
 2、Training codes: TBD. <br>
-3、Data synthesis code: After we complete the expanded version of this work. <br>
+3、Data synthesis code: Within 2024. <br>
 
 
 Any question about this work please contact 202221012612@mail.scut.edu.cn.
