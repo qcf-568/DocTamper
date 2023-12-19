@@ -6,8 +6,8 @@ import argparse
 from PIL import Image
 import numpy as np
 parser = argparse.ArgumentParser()
-parser.add_argument('--input', type=str, default='')
-parser.add_argument('--i', type=int, default=0)
+parser.add_argument('--input', type=str, default='DocTamperV1-FCD')  ## path to the dataset dir, which contains data.mdb and lock.mdb
+parser.add_argument('--i', type=int, default=0) # index of the image to be visualized
 args = parser.parse_args()
 a =  lmdb.open(args.input,readonly=True,lock=False,readahead=False,meminit=False)
 index = args.i
