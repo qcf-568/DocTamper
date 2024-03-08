@@ -21,3 +21,15 @@ Open Source Scheme: <br>
 
 Any question about this work please contact 202221012612@mail.scut.edu.cn.
 
+---
+
+If you find this work useful in your research, please consider citing:
+
+@inproceedings{qu2023towards,
+  title={Towards Robust Tampered Text Detection in Document Image: New Dataset and New Solution},
+  author={Qu, Chenfan and Liu, Chongyu and Liu, Yuliang and Chen, Xinhong and Peng, Dezhi and Guo, Fengjun and Jin, Lianwen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5937--5946},
+  year={2023}
+}
+
