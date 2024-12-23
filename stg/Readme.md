@@ -1,6 +1,6 @@
 ### Toy code example for Selective Tampering Generation (STG)
 
-Due to the ban from the cooperative company, We can only provide the toy STG code instead of its original code.
+Due to the ban from the cooperative company, we can only provide the toy STG code instead of its original code.
 
 This toy code is a simplified version (only has 5% lines) of the original STG.
 
