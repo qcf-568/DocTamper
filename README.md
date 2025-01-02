@@ -12,13 +12,14 @@ To visualize the images and their corresponding ground-truths from the provided 
 ---
 The official implementation of the paper  Towards Robust Tampered Text Detection in Document Image: New Dataset and New Solution is in the "models" directory.
 
-I delay the release of training codes as forced by my supervisor and the cooperative enterprise who bought them. My training pipline for DocTamper dataset and the IoU metric heavily brought from a famous project in this area, the results of  the paper can be easily re-produced with [it](https://github.com/DLLXW/data-science-competition/blob/main/tianchi/ImageForgeryLocationChallenge/utils/deeplearning_qyl.py), you just need to adjust the loss functions and the learing rate decay curve. I also used its [augmentation pipline](https://github.com/DLLXW/data-science-competition/blob/main/tianchi/ImageForgeryLocationChallenge/dataset/RSCDataset.py) except for (RandomBrightnessContrast, ShiftScaleRotate, CoarseDropout).
-
-
 Open Source Scheme: <br>
-1、Inference models and codes: June, 2023. <br>
-2、Training codes: TBD. <br>
-3、Data synthesis code: Within 2024. <br>
+1、Inference [models and code](https://github.com/qcf-568/DocTamper/tree/main/models)
+2、Training code: contact 202221012612@mail.scut.edu.cn.
+3、[Data synthesis code](https://github.com/qcf-568/DocTamper/tree/main/stg)
+
+---
+
+### The DocTamper dataset does not cover AIGC text tampering, but such a scenario is sufficiently covered by our [new work](https://github.com/qcf-568/OSTF).
 
 ---
 
