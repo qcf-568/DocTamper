@@ -13,8 +13,11 @@ To visualize the images and their corresponding ground-truths from the provided 
 The official implementation of the paper  Towards Robust Tampered Text Detection in Document Image: New Dataset and New Solution is in the "models" directory.
 
 Open Source Scheme: <br>
+
 1、Inference [models and code](https://github.com/qcf-568/DocTamper/tree/main/models)
+
 2、Training code: contact 202221012612@mail.scut.edu.cn.
+
 3、[Data synthesis code](https://github.com/qcf-568/DocTamper/tree/main/stg)
 
 ---
