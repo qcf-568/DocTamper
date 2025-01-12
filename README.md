@@ -20,7 +20,7 @@ Open Source Scheme: <br>
 
 3、[Data synthesis code](https://github.com/qcf-568/DocTamper/tree/main/stg)
 
-The evalution metrics and training code are built upon [this reop](https://github.com/DLLXW/data-science-competition/tree/main/tianchi/ImageForgeryLocationChallenge).
+The evalution metrics and training code are built upon [this repo](https://github.com/DLLXW/data-science-competition/blob/main/tianchi/ImageForgeryLocationChallenge/utils/deeplearning_qyl.py).
 
 ---
 
