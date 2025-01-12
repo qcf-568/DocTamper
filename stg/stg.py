@@ -17,10 +17,11 @@ from tqdm import tqdm
 # import doxapy (pip install doxapy)
 # import numpy as np
 # model = doxapy.Binarization(doxapy.Binarization.Algorithms.SAUVOLA)
+# img = cv2.imread(your_img_path)
 # model.initialize(img)
 # msk = np.zeros_like(img)
 # model.to_binary(msk, {"window": 75, "k": 0.2})
-# return msk
+# cv2.imwrite(your_mask_path, msk)
 
 # run this script with "python stg1.py"
 
