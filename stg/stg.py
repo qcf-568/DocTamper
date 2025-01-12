@@ -9,6 +9,19 @@ from tqdm import tqdm
 # prepare: image_mask # 'imgs/0.jpg' -> 'masks/0.png'
 # e.g. from image binarization
 
+### OCR
+# http://ocr.space/
+# https://github.com/ErikBoesen/ocrspace
+
+### Image Binarization
+# import doxapy (pip install doxapy)
+# import numpy as np
+# model = doxapy.Binarization(doxapy.Binarization.Algorithms.SAUVOLA)
+# model.initialize(img)
+# msk = np.zeros_like(img)
+# model.to_binary(msk, {"window": 75, "k": 0.2})
+# return msk
+
 # run this script with "python stg1.py"
 
 with open('ocr.pk','rb') as f: # OCR pickle {'img_path1':[[x1,y1,w1,h1], [x1,y1,w1,h1]], 'img_path2':[[x1,y1,w1,h1], [x1,y1,w1,h1]]}
