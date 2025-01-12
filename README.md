@@ -20,6 +20,8 @@ Open Source Scheme: <br>
 
 3、[Data synthesis code](https://github.com/qcf-568/DocTamper/tree/main/stg)
 
+The evalution metrics and training code are built upon [this reop](https://github.com/DLLXW/data-science-competition/tree/main/tianchi/ImageForgeryLocationChallenge).
+
 ---
 
 ### The DocTamper dataset does not cover AIGC text tampering, but such a scenario is sufficiently covered by our [new work](https://github.com/qcf-568/OSTF).
