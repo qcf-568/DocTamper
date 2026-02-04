@@ -26,6 +26,9 @@ The evalution metrics and training code are built upon [this repo](https://githu
 
 ### The DocTamper dataset does not cover AIGC text tampering, but such a scenario is sufficiently covered by our [new work](https://github.com/qcf-568/OSTF).
 
+
+### The authentic images from our [TFR dataset](https://github.com/qcf-568/TextShield) can be used as the authentic images for the DocTamper dataset.
+
 ---
 ### Disclaimer
 
